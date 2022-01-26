@@ -1,0 +1,10 @@
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\bin\Debug\Drunken_Beetle.exe.config
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\bin\Debug\Drunken_Beetle.exe
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\bin\Debug\Drunken_Beetle.pdb
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.csprojAssemblyReference.cache
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.Form1.resources
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.Properties.Resources.resources
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.csproj.GenerateResource.cache
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.csproj.CoreCompileInputs.cache
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.exe
+C:\Users\alfud\source\repos\Drunken_Beetle\Drunken_Beetle\obj\Debug\Drunken_Beetle.pdb
